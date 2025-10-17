@@ -3,7 +3,7 @@ Configuration settings for the Cre8Worthy application.
 """
 
 # API Configuration
-GEMINI_API_KEY = 'AIzaSyCkK_oRfWJaGKGdjkxx6GFj1zKfLYoAiLg'  # Replace with your valid Gemini API key
+GEMINI_API_KEY = 'API_KEY'  
 
 # Database Configuration
 DB_FILE = "gemini_interactions.db"
@@ -18,4 +18,5 @@ ADMIN_WINDOW_WIDTH = 600
 ADMIN_WINDOW_HEIGHT = 400
 
 # Admin Configuration
+
 ADMIN_PASSWORD = "0000"  # Simple password for demo purposes 
